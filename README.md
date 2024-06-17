@@ -1,4 +1,4 @@
-# File Organizer
+# File Organizer (Python)
 wip | structure for a program that organizes files via file type. 
 
 
