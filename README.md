@@ -1,7 +1,7 @@
 # file-organizer
 wip | structure for a program that organizes files via file type. 
 
-#### Personal Modifications must be made for the path you are planning on organizing
+#### use modifications must be made for the path you are planning on organizing
 
 ##### You'll need to create the following folders for each file type:
 
